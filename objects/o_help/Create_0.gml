@@ -1,0 +1,23 @@
+//gamePause = false;
+
+text = "Tweet Tweet!\n\n"
++"- To start the game, select new game using the directional keys and pressing enter\n"
++"- You can also restart the game from the level using the R key\n"
++"[Gameplay]\n"
++"- Your goal is to reach 100% dopamine (represented by the red bar) and keep yourself from falling to zero\n"
++"- Dopamine will fall at a faster rate as time goes on\n"
++"- Fly with the left/right directional keys\n"
++"- Jump with the spacebar\n"
++"- Collect popular words that fall on the ground to create tweets\n"
++"- You can only hold 3 words at a time\n"
++"- Post your tweets with the T key\n"
++"- Tweets with more words give more dopamine and followers\n"
++"- If you have more than 50 followers (shown in the top left) you can... \n"
++"- convert them into dopamine using the F key\n"
++"- (50% dopamine if you have less than 50% and 30% if you have more than 50%)\n"
++"- use these followers to get a speed boost with the B key\n"
++"- However, speed boosts cost 30 followers and dopamine conversions reduce your follower count to zero!\n"
++"- Having a tweet with two music artists will get a musical combo bonus!\n"
++"- Grabbing buzzwords will net you a 2x dopamine bonus for tweets (using multiple does not increase the multiplier)\n"
++"- Press the ESC key to pause if you need to!\n\n"
++"Press ENTER to return to the menu";
